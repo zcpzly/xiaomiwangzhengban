@@ -1,0 +1,23 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-30 11:46:45
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-30 11:54:32
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: "微软雅黑","宋体",sans-serif;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background: #ffffff;
+}
+
+/* 兼容ie6 */
+img{
+	border: 0;
+}
